@@ -122,7 +122,8 @@ const results =
 	new Result("Вы в совершенстве знаете тему", 6)
 ];
 
-//Массив с вопросамиconst questions = 
+ 
+const questions = 
 [
 	new Question("2 + 2 = ", 
 	[
